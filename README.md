@@ -1,2 +1,2 @@
 # global_hot_key
-automatic the boring stuff
+automating the boring stuff
